@@ -1,0 +1,27 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61643:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/raulvirayjr/IdeaProjects/homework 4/out/production/homework 4" Main
+Scenario one: Expected result from math 50%
+Count of True : 49728
+Count of False : 50272
+Actual Result 49.728%
+
+Scenario two: Expected result from math 80%
+Count of True : 80318
+Count of False : 19682
+Actual Result 80.318%
+
+Scenario three: Expected result from math 25%
+Count of True : 25107
+Count of False : 74893
+Actual Result 25.106998%
+
+Scenario Four: Expected result from math 3.70%
+Count of True : 3716
+Count of False : 96284
+Actual Result 3.716%
+
+Scenario Five: Expected result from math 27.77%
+Count of True : 27539
+Count of False : 72461
+Actual Result 27.539%
+
+Process finished with exit code 0
